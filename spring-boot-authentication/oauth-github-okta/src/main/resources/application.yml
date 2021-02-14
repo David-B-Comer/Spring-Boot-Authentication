@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    cache: false
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: 1342b3674a3846b5cf45
+            client-secret: d1643a0f484bf6bf005ccea70390f68aebe35dd9
+          okta:
+            issuer: https://dev-59229684.okta.com
+              client-id: 0oa5xk2zsr48WzzXT5d6
+              client-secret: vjATdvuKU6N79b43x7F7ZHBZd7riW-mRm_1nnuFE
